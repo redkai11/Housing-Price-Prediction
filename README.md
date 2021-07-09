@@ -6,11 +6,10 @@ The main objective of this project is to predict house prices in Ames, Iowa usin
 # Description
 This is a kaggle competition. https://www.kaggle.com/c/house-prices-advanced-regression-techniques.
 
-* Feature Engineering
-** Imputate missing values using median (numerical) and mode (categorical) values
-** Identify most important features via correlation values
-** Separate and encode nominal and ordinal features
-** Visualize the distribution of each feature and perform log or box-cox transformation to fix skewness/heteroscedasticity
+* Imputate missing values using median (numerical) and mode (categorical) values
+* Identify most important features via correlation values
+* Separate and encode nominal and ordinal features
+* Visualize the distribution of each feature and perform log or box-cox transformation to fix skewness/heteroscedasticity
 * Compare the performance of RandomForestRegressor, GradientBoostingRegressor, XGBoostRegressor, CatBoostRegressor, and LassoRegressor via RMSE
 
 For the sake of time, I did not perform hyperparameter tuning in this project. 
