@@ -6,7 +6,7 @@ The main objective of this project is to predict house prices in Ames, Iowa usin
 # Description
 This is a kaggle competition. https://www.kaggle.com/c/house-prices-advanced-regression-techniques.
 
-* Imputate missing values using median (numerical) and mode (categorical) values
+* Impute missing values using median (numerical) and mode (categorical) values
 * Identify most important features via correlation values
 * Separate and encode nominal and ordinal features
 * Visualize the distribution of each feature and perform log or box-cox transformation to fix skewness/heteroscedasticity
